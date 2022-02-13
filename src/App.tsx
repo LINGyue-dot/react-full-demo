@@ -15,7 +15,7 @@ function App() {
             <Route path="/redux">
               <ReduxDemo />
             </Route>
-          </Switch>
+          </Switch> 
         </Router>
       </Provider>
     </div>
