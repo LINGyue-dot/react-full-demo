@@ -14,7 +14,7 @@ const ReduxDemo = () => {
   return (
     <div>
       <h1>{count}</h1>
-      <button onClick={hanleAdd}>加一</button>
+      <button onClick={hanleCSSS}>加一</button>
     </div>
   );
 };
